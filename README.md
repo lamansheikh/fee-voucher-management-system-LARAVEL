@@ -10,3 +10,8 @@
 ## fee-voucher-management-system-LARAVEL
 Fee Voucher Management System built with Laravel (MVC) and Blade templates. Generates fee vouchers with one click and stores them in a MySQL database.
 
+<img width="1250" height="842" alt="1" src="https://github.com/user-attachments/assets/33b83dec-1a2a-4bd2-bf9f-b965d38ae7c2" />
+<img width="1257" height="796" alt="2" src="https://github.com/user-attachments/assets/08025685-99e4-4c03-b748-ae73cf2d82e2" />
+<img width="1013" height="592" alt="3" src="https://github.com/user-attachments/assets/1b9b74ff-89fc-4206-afcd-8ddcc2e3e29b" />
+<img width="1025" height="469" alt="4" src="https://github.com/user-attachments/assets/0b27a88b-698b-472d-bf8c-8fd2cf1a9989" />
+
